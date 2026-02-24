@@ -1,7 +1,9 @@
 <div align="center">
+
 # Touchless WM
 
 Touchless Window Management for Windows using OpenCV and MediaPipe
+
 </div>
 
 ## Overview
